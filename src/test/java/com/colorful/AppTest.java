@@ -1,13 +1,8 @@
 package com.colorful;
 
-import static org.junit.Assert.assertTrue;
-
-import com.colorful.util.JDBCUtil;
 import org.junit.Test;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.Statement;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.
