@@ -3,6 +3,9 @@ package com.colorful.util;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class MD5Util {
 
     public static String md5(String source) {

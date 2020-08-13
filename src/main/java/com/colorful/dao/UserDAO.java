@@ -7,6 +7,10 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
+
+/**
+ * @author colorful@TaleLin
+ */
 public class UserDAO {
 
     public User selectByUserNameAndPassword(String username, String password) {

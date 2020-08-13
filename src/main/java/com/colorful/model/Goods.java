@@ -1,5 +1,8 @@
 package com.colorful.model;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class Goods extends BaseModel {
 
     private String name;

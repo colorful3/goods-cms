@@ -10,6 +10,9 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class GoodsDAO {
 
     private Connection connection = null;

@@ -2,6 +2,9 @@ package com.colorful.model;
 
 import java.sql.Timestamp;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class BaseModel {
 
     private Integer id;

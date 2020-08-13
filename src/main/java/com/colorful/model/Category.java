@@ -1,5 +1,8 @@
 package com.colorful.model;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class Category extends BaseModel {
 
     private String name;

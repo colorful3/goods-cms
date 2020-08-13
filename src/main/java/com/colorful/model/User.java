@@ -1,5 +1,8 @@
 package com.colorful.model;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class User extends BaseModel {
 
     private String userName;

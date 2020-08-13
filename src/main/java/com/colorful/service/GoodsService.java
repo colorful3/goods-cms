@@ -6,6 +6,9 @@ import com.colorful.model.Goods;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * @author colorful@TaleLin
+ */
 public class GoodsService {
 
     private final GoodsDAO goodsDAO = new GoodsDAO();
